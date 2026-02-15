@@ -1,6 +1,6 @@
 {
   "name": "@node2flow/google-calendar-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP server for Google Calendar — create events, manage calendars, check availability, and share calendars through 28 tools",
   "type": "module",
   "main": "dist/index.js",
